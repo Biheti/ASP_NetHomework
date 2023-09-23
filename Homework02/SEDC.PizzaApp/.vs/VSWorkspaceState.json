@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SEDC.PizzaApp",
+    "\\SEDC.PizzaApp\\Views",
+    "\\SEDC.PizzaApp\\Views\\Orders"
   ],
-  "SelectedNode": "\\SEDC.PizzaApp.sln",
+  "SelectedNode": "\\SEDC.PizzaApp\\Views\\Orders\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

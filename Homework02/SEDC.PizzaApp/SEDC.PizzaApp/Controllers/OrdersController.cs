@@ -13,8 +13,8 @@ namespace SEDC.PizzaApp.Controllers
         }
 
 
-        [HttpGet("Details/{id}")]
-        public IActionResult Details(int id)
+        [HttpGet("Details/{id?}")]
+        public IActionResult Details(int? id)
         {
             if (id == null) 
             { 
@@ -25,11 +25,9 @@ namespace SEDC.PizzaApp.Controllers
         }
 
 
-        [HttpGet("JsonData/{id}")]
-        public IActionResult JsonDataDetails(int id)
+        [HttpGet("JsonData")]
+        public IActionResult JsonDataDetails()
         {
-            if (id == 1)
-            {
                 Pizza pizza = new Pizza()
                 {
                     Id = 1,
@@ -39,11 +37,6 @@ namespace SEDC.PizzaApp.Controllers
 
                 };
                 return new JsonResult(pizza);
-
-            }
-
-
-            return new EmptyResult();
         }
 
 

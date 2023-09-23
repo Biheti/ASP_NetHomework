@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Biljana\\Desktop\\Seavus\\ASPHomework\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj": {}
+    "C:\\Users\\Biljana\\Desktop\\Seavus\\ASP_NetHomework\\Homework02\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Biljana\\Desktop\\Seavus\\ASPHomework\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj": {
+    "C:\\Users\\Biljana\\Desktop\\Seavus\\ASP_NetHomework\\Homework02\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Biljana\\Desktop\\Seavus\\ASPHomework\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+        "projectUniqueName": "C:\\Users\\Biljana\\Desktop\\Seavus\\ASP_NetHomework\\Homework02\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
         "projectName": "SEDC.PizzaApp",
-        "projectPath": "C:\\Users\\Biljana\\Desktop\\Seavus\\ASPHomework\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+        "projectPath": "C:\\Users\\Biljana\\Desktop\\Seavus\\ASP_NetHomework\\Homework02\\SEDC.PizzaApp\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
         "packagesPath": "C:\\Users\\Biljana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Biljana\\Desktop\\Seavus\\ASPHomework\\SEDC.PizzaApp\\SEDC.PizzaApp\\obj\\",
+        "outputPath": "C:\\Users\\Biljana\\Desktop\\Seavus\\ASP_NetHomework\\Homework02\\SEDC.PizzaApp\\SEDC.PizzaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
